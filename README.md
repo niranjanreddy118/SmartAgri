@@ -40,6 +40,10 @@ ARGI.AI is deployed on Vercel, making it easily accessible online. Please note t
 - **Disease Detection System:** Users can upload images of plant leaves. ARGI.AI identifies the crop type, checks for diseases, and offers insights into disease causes, prevention, and treatment. Please note that the system currently supports specific crops.
 
 
+## Demo
+
+ARGI.AI provides demonstrations for the Crop Recommendation, Fertilizer Suggestion, and Disease Detection systems, offering users a glimpse of its capabilities. 
+Explore the [ARGI.AI Demo](https://crop-reccomendation.vercel.app/) to see the Crop Recommendation, Fertilizer Suggestion, and Disease Detection systems in action.
 
 
 ## Usage
